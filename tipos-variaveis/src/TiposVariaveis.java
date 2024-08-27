@@ -15,9 +15,9 @@ public class TiposVariaveis {
         System.out.println(numero);
         // declaração de variavel q não pode ser mudada sempre o nome deve estar em
         // caixa alta e a palavra e final na frente como mostra a baixo:
-
-        final double VALOR_DE_PI = 3.14;
-        System.out.println(VALOR_DE_PI);
+        // declaracao de variavel que nao pode ser mudada.
+        // final double VALOR_DE_PI = 3.14;
+        // System.out.println(VALOR_DE_PI);
         /*
          * estudar tipos primitivos
          * estudar a classe que representa texto manipulação
