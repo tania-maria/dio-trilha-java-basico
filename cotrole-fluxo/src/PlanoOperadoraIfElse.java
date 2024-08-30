@@ -2,7 +2,7 @@ public class PlanoOperadoraIfElse {
     public static void main(String[] args) {
 
         String plano = "M"; // M / T
-        if (plano == "8") {
+        if (plano == "B") {
             System.out.println("100 minutos de ligações");
         } else if (plano == "M") {
             System.out.println("100 minutos de ligações");
